@@ -55,8 +55,3 @@ app.listen(process.env.PORT|| 8000,function(){
   console.log("Server is running on port 8000");
 });
 
-
-// appi key
-// 06d41bb1a287b3993c63bf578a1fab78-us10
-// list id
-// 9f2d11d6b8
